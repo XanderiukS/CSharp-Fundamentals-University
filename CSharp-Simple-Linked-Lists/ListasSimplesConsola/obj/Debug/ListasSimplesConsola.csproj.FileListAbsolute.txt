@@ -1,0 +1,14 @@
+C:\Users\imxan\OneDrive\Documentos\Programacion\ListasSimplesConsola\ListasSimplesConsola\obj\Debug\ListasSimplesConsola.csproj.AssemblyReference.cache
+C:\Users\imxan\OneDrive\Documentos\Programacion\ListasSimplesConsola\ListasSimplesConsola\obj\Debug\ListasSimplesConsola.csproj.CoreCompileInputs.cache
+C:\Users\imxan\OneDrive\Documentos\Programacion\ListasSimplesConsola\ListasSimplesConsola\bin\Debug\ListasSimplesConsola.exe.config
+C:\Users\imxan\OneDrive\Documentos\Programacion\ListasSimplesConsola\ListasSimplesConsola\bin\Debug\ListasSimplesConsola.exe
+C:\Users\imxan\OneDrive\Documentos\Programacion\ListasSimplesConsola\ListasSimplesConsola\bin\Debug\ListasSimplesConsola.pdb
+C:\Users\imxan\OneDrive\Documentos\Programacion\ListasSimplesConsola\ListasSimplesConsola\obj\Debug\ListasSimplesConsola.exe
+C:\Users\imxan\OneDrive\Documentos\Programacion\ListasSimplesConsola\ListasSimplesConsola\obj\Debug\ListasSimplesConsola.pdb
+C:\Users\imxan\OneDrive\Documentos\Universidad\Programacion\VISUAL\ListasSimplesConsola\ListasSimplesConsola\bin\Debug\ListasSimplesConsola.exe.config
+C:\Users\imxan\OneDrive\Documentos\Universidad\Programacion\VISUAL\ListasSimplesConsola\ListasSimplesConsola\bin\Debug\ListasSimplesConsola.exe
+C:\Users\imxan\OneDrive\Documentos\Universidad\Programacion\VISUAL\ListasSimplesConsola\ListasSimplesConsola\bin\Debug\ListasSimplesConsola.pdb
+C:\Users\imxan\OneDrive\Documentos\Universidad\Programacion\VISUAL\ListasSimplesConsola\ListasSimplesConsola\obj\Debug\ListasSimplesConsola.csproj.AssemblyReference.cache
+C:\Users\imxan\OneDrive\Documentos\Universidad\Programacion\VISUAL\ListasSimplesConsola\ListasSimplesConsola\obj\Debug\ListasSimplesConsola.csproj.CoreCompileInputs.cache
+C:\Users\imxan\OneDrive\Documentos\Universidad\Programacion\VISUAL\ListasSimplesConsola\ListasSimplesConsola\obj\Debug\ListasSimplesConsola.exe
+C:\Users\imxan\OneDrive\Documentos\Universidad\Programacion\VISUAL\ListasSimplesConsola\ListasSimplesConsola\obj\Debug\ListasSimplesConsola.pdb
