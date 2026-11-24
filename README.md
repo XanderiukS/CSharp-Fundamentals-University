@@ -1,52 +1,47 @@
-# 🎓 C# Fundamentals & University Projects
+<div align="center">
 
-¡Bienvenido a mi repositorio! Este espacio documenta mis primeros pasos en el mundo del desarrollo de software. Aquí agrupo mis proyectos, laboratorios y tareas universitarias desarrolladas en **C#**, enfocadas en la construcción de una base sólida en lógica de programación, algoritmos, estructuras de datos y Programación Orientada a Objetos (POO).
+# C# Fundamentals – University Projects
 
-Este repositorio es un reflejo de mi trayectoria de aprendizaje, mi capacidad para resolver problemas y mi evolución escribiendo código limpio y optimizado.
+Projects developed for the **Programming 3** course of my **Systems Engineering** degree.
 
----
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square)
+![.NET](https://img.shields.io/badge/.NET-6.0%20%7C%20Framework%204.7.2-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Windows Forms](https://img.shields.io/badge/Windows%20Forms-0078D6?style=flat-square)
 
-## 📂 Contenido del Repositorio
+</div>
 
-El repositorio está dividido en proyectos independientes, cada uno enfocado en desarrollar habilidades específicas:
+## About
 
-### 1. CSharp-Basic-Exercises
-Colección de 6 casos prácticos orientados a la validación de datos y matemáticas básicas.
-* **Conceptos aplicados:** Bucles (`while`, `for`), estructuras condicionales (`if/else`), concatenación y manipulación de cadenas (strings), y diseño de interfaces con `TabControl`.
-* **Ejercicios destacados:** Validación de longitud de números telefónicos, detección de vocales/consonantes y sumatorias de rangos numéricos.
+This repository collects the C# projects I built while learning the fundamentals of programming. Each folder is an independent Visual Studio solution, and together they show my progression from basic conditional logic to classes and data structures.
 
-### 2. CSharp-Day-Of-Week-Evaluator
-Aplicación diseñada para procesar entradas numéricas y retornar valores correspondientes basados en lógica estructurada.
-* **Conceptos aplicados:** Estructuras de control de flujo (`switch`), prevención de errores y validación de entrada de usuario (`int.TryParse`), y buenas prácticas de retorno (eliminación de variables temporales innecesarias).
+## Projects
 
-### 3. CSharp-TicTacToe-Project
-El clásico juego de mesa llevado a una interfaz digital.
-* **Conceptos aplicados:** Lógica de juegos, validación de condiciones de victoria (evaluación de filas, columnas y diagonales), Programación Orientada a Eventos (manejo de clics en botones) y manipulación dinámica de propiedades UI en tiempo real.
+| Project | What it does | What I learned |
+|---|---|---|
+| [CSharp-Basic-Exercises](./CSharp-Basic-Exercises) | Windows Forms app with six small exercises: phone number type, vowel or consonant, sum from 100 to 200, countdown, even numbers in a range and grade evaluation. | `if`/`else`, `switch`, `while` loops, the modulo operator and string handling. |
+| [CSharp-Day-Of-Week-Evaluator](./CSharp-Day-Of-Week-Evaluator) | Converts a number from 1 to 7 into the corresponding day of the week. | Methods with return values and `switch` with a `default` case. |
+| [CSharp-TicTacToe-Project](./CSharp-TicTacToe-Project) | Two-player tic-tac-toe game with random X/O assignment and win or draw detection. | Event-driven programming, game logic, the `Random` class and changing UI controls at runtime. |
+| [CSharp-OOP-Vehicle-Manager](./CSharp-OOP-Vehicle-Manager) | Registers vehicles (plate, chassis, brand, energy type, color, description) and displays their information. | Classes and objects, method overloading, `List<string>` and data binding with `ComboBox`. |
+| [CSharp-Simple-Linked-Lists](./CSharp-Simple-Linked-Lists) | Console app that implements a singly linked list by hand, inserting and printing nodes. | Nodes and references, properties, insertion at the tail and list traversal. |
 
-### 4. CSharp-Simple-Linked-Lists
-Aplicación de consola enfocada en la implementación manual de estructuras de datos enlazadas (Singly Linked Lists) sin depender de clases preconstruidas.
-* **Conceptos aplicados:** Manejo de memoria, creación de Nodos, manipulación de punteros (`Siguiente`, `primero`, `ultimo`) y recorrido dinámico de datos mediante bucles.
+## How to Run
 
-### 5. CSharp-Vehicle-Inventory
-Sistema de inventario en memoria para registrar y visualizar información detallada de vehículos mediante una interfaz gráfica.
-* **Conceptos aplicados:** Programación Orientada a Objetos (creación de clases e instanciación de objetos), manejo de colecciones dinámicas (`List<T>`), y actualización de interfaz en tiempo real mediante eventos de selección (`SelectedIndexChanged`).
+Requirements: Windows and **Visual Studio 2022** with the *.NET desktop development* workload.
 
----
-
-## 🛠️ Tecnologías y Herramientas Utilizadas
-
-* **Lenguaje:** C#
-* **Framework:** .NET Framework (Windows Forms / Aplicaciones de Consola)
-* **Paradigma:** Programación Orientada a Objetos (POO) / Lógica Estructurada / Orientada a Eventos
-* **IDE:** Visual Studio
-* **Control de Versiones:** Git & GitHub
-
----
-
-## 🚀 Cómo ejecutar los proyectos localmente
-
-Dado que este repositorio agrupa múltiples tareas independientes, puedes evaluar y ejecutar cada proyecto de forma individual siguiendo estos pasos:
-
-1. **Clona el repositorio principal** en tu equipo local usando la terminal:
+1. Clone the repository:
    ```bash
-   git clone [https://github.com/XanderiukS/CSharp-Fundamentals-University.git](https://github.com/XanderiukS/CSharp-Fundamentals-University.git)
+   git clone https://github.com/XanderiukS/CSharp-Fundamentals-University.git
+   ```
+2. Open the `.sln` file inside the project folder you want to try.
+3. Press <kbd>F5</kbd> to build and run.
+
+> [!NOTE]
+> The application interfaces are in Spanish.
+
+---
+
+<div align="center">
+
+**Alexander Oliva** · [GitHub](https://github.com/XanderiukS) · [LinkedIn](https://www.linkedin.com/in/alexander-oliva-estrada)
+
+</div>
